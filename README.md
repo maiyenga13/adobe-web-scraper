@@ -6,8 +6,8 @@ An application that takes in a url to a specific [Adobe security advisory](https
 ## Instructions
 To run the code file:
 - Install dependent libraries from requirements.txt (mainly: requests, bs4, datetime, python-dateutil, jsonlib)
-- Run program from within meghna_iyengar_assigment directory (i.e. $ python3 assignment1.py)
-- Input a url (List o )
+- Run program (i.e. $ python3 assignment1.py)
+- Input a url (see link to list of example bulletins below)
 - Once input is entered, the program will write the JSON output to a file ["data.txt"](example-output.txt)
 
 ## [List of Example Adobe Security Bulletins](https://helpx.adobe.com/security/)
